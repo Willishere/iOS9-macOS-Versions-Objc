@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.h
-//  iOS9-macOS-Versions-Objc
+//  ios9 Objc
 //
-//  Created by Paul Solt on 11/4/19.
-//  Copyright © 2019 Lambda, Inc. All rights reserved.
+//  Created by William Chen on 11/4/19.
+//  Copyright © 2019 William Chen. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
